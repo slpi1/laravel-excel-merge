@@ -97,7 +97,7 @@ class DemoExport implements FromCollection, WithEvents, WithStopRule
 
 导出`Excel`数据如下：
 
-![extends stop rows](docs/image/demo_extends_stop_rows.png)
+![stop rule](docs/image/demo_stop_rule.png)
 
 ### 继承停止行/列
 
@@ -142,7 +142,7 @@ class DemoExport implements FromCollection, WithEvents
 
 导出`Excel`数据如下：
 
-![stop rule](docs/image/demo_stop_rule.png)
+![extends stop rows](docs/image/demo_extends_stop_rows.png)
 
 ## 导出为Table原型
 
