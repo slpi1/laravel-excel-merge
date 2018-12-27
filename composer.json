@@ -1,0 +1,27 @@
+{
+    "name": "slpi1/laravel-excel-merge",
+    "description": "php导出Excel，合并单元格。",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "php",
+        "phpexcel",
+        "excel",
+        "merge",
+        "mergecell"
+    ],
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "slpi1",
+            "email": "365625906@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Slpi1\\Excel\\": "src/"
+        }
+    }
+}
